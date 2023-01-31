@@ -13,3 +13,6 @@
 4. StudentServiceImpl(@Service)
 5. StudentController(@Controller)
 
+![](https://github.com/AdilEnverUygur/SpringBootProjects/blob/main/StudentManagementSystem/src/main/java/1.png)
+![](https://github.com/AdilEnverUygur/SpringBootProjects/blob/main/StudentManagementSystem/src/main/java/2.png)
+
