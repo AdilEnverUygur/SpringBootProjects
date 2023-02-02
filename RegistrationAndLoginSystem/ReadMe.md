@@ -11,7 +11,7 @@
 1. Register to the application
 2. Login to the application using registered credentials
 ## Application Architecture
-![](C:\Users\Adil\Pictures\Screenshots\Screenshot_20230202_013011.png)
+![](https://github.com/AdilEnverUygur/SpringBootProjects/blob/main/RegistrationAndLoginSystem/screenshot/0.png)
 
 ## Technologies Used:
 1. Spring Boot 2.3
