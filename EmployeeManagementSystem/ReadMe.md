@@ -47,6 +47,6 @@ Results:
 
 ---
 3. Employee List :
-![](screenshot/Employee List.png)
+![](screenshot/EmployeeList.png)
 
 ---
