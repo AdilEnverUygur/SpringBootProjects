@@ -11,7 +11,7 @@
 1. Register to the application
 2. Login to the application using registered credentials
 ## Application Architecture
-![](C:\Users\Adil\Pictures\Screenshots\Screenshot_20230202_013011.png)
+![](https://github.com/AdilEnverUygur/SpringBootProjects/blob/main/RegistrationAndLoginSystem/screenshot/0.png)
 
 ## Technologies Used:
 1. Spring Boot 2.3
@@ -36,4 +36,12 @@
 ``` 
     Results:
 ```
+1. User Login Page:
+![](https://github.com/AdilEnverUygur/SpringBootProjects/blob/main/RegistrationAndLoginSystem/screenshot/1.png)
+2. Registration Page: 
+![](https://github.com/AdilEnverUygur/SpringBootProjects/blob/main/RegistrationAndLoginSystem/screenshot/2.png)
+3. After Login Success:
+![](https://github.com/AdilEnverUygur/SpringBootProjects/blob/main/RegistrationAndLoginSystem/screenshot/3.png)
+4. After Click Logout Button:
+![](https://github.com/AdilEnverUygur/SpringBootProjects/blob/main/RegistrationAndLoginSystem/screenshot/4.png)
 
